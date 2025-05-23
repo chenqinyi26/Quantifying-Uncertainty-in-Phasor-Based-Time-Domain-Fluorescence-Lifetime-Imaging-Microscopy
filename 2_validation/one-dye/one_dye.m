@@ -3,8 +3,8 @@ clear all;
 
 %% Read multiple CSV files
 filepaths = {
-   'laser1.csv',
    'laser2.csv',
+   'laser3.csv',
    'laser5.csv',
 };
 
